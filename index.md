@@ -1,22 +1,22 @@
-# My Title
+# Group Meeting
 ## Jennifer M. Hays
+## 6/26/2019
 
 
-### Test math
-$$\beta$$
+# Outline
+1. New system and experimental data!
+2. Why this system is useful for testing some new methods.
+3. How we're going to do the tests. <span style="color:red"> **(This is mostly for Eric.)**</span>
 
 
-### Test image
-<p class="stretch"><img class=plain data-src="images/multi-spin-dimer-challenge.png"></p>
+#### The Wzm-Wzt ABC transporter moves O-antigen from cytosol to periplasm
+<img data-src="images/oantigen_model.jpg">
+<small>proposed model of O-antigen transport from Bi et al., <em>Nature</em> 2018</small>
 
 
-## Test multicolumn
-<div id="right">
-
-- my list
-
-- about the image
-</div>
+## Wzm-Wzt Structure
 <div id="left">
-<img class=plain data-src="images/multi-spin-dimer-challenge.png">
+
+- Transporter is composed of three domains: Wzm, Wzt, and a carbohydrate-binding domain (CBD)
+- No one knows exactly **how the CBD is oriented with respect to Wzt**
 </div>
