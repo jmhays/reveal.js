@@ -7,4 +7,4 @@ $$\beta$$
 
 
 ### Test image
-<p class="stretch"><img data-src="images/multi-spin-dimer-challenge.png"></p>
+<p class="stretch"><img class=plain data-src="images/multi-spin-dimer-challenge.png"></p>
